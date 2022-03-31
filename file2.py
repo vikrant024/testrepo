@@ -1,1 +1,1 @@
-this is for new file
+print("this is for new file")
